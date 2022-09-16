@@ -16,8 +16,8 @@ class Task10 {
         // Ниже приведены значения присваиваемые переменным. Их можно изменять для проверки различных вариантов входных
         // аргументов. Типы данных изменять нельзя
         int firstFuelReserves = 100;
-        int secondFuelReserves = 50;
-        int thirdFuelReserves = 70;
+        int secondFuelReserves = 55;
+        int thirdFuelReserves = 50;
 
         int numberStation = getNumberStation(firstFuelReserves, secondFuelReserves, thirdFuelReserves);
         System.out.printf("Result: %s", numberStation);

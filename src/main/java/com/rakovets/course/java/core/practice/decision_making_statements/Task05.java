@@ -18,7 +18,7 @@ class Task05 {
         //FIXME
         // Ниже приведены значения присваиваемые переменным. Их можно изменять для проверки различных вариантов входных
         // аргументов. Типы данных изменять нельзя
-        byte monthNumber = 1;
+        byte monthNumber = 2;
 
         String monthName = getMonthName(monthNumber);
         System.out.printf("Result: %s", monthName);

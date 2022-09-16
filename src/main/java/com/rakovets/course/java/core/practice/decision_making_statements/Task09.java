@@ -16,7 +16,7 @@ class Task09 {
         // Ниже приведены значения присваиваемые переменным. Их можно изменять для проверки различных вариантов входных
         // аргументов. Типы данных изменять нельзя
         int numberFloors = 9;
-        int numberApartmentsPerFloor = 4;
+        int numberApartmentsPerFloor = 5;
         int apartmentNumber = 169;
 
         int porchNumber = getPorchNumber(numberFloors, numberApartmentsPerFloor, apartmentNumber);

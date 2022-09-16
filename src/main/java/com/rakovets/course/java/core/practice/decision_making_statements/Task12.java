@@ -29,7 +29,7 @@ class Task12 {
         // Ниже приведены значения присваиваемые переменным. Их можно изменять для проверки различных вариантов входных
         // аргументов. Типы данных изменять нельзя
         int day = 12;
-        int month = 12;
+        int month = 11;
 
         String zodiacSign = getZodiacSign(day, month);
         System.out.printf("Result: %s", zodiacSign);

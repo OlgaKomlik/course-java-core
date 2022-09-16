@@ -87,6 +87,4 @@ class Task14 {
         }
         return zodiacName;
     }
-
-
 }

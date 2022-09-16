@@ -21,7 +21,7 @@ class Task08 {
         //FIXME
         // Ниже приведены значения присваиваемые переменным. Их можно изменять для проверки различных вариантов входных
         // аргументов. Типы данных изменять нельзя
-        int damage = 100;
+        int damage = 101;
         String typeMob = "SAINT";
         boolean hasHolyAttribute = true;
 
